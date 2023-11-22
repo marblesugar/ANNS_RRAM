@@ -1,0 +1,9 @@
+[book]
+authors = ["zhangying"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ANNS_ReRAM"
+editable = true
+[output.html]
+mathjax-support = true
